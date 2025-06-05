@@ -27,17 +27,13 @@ This project implements a full clinical NLP pipeline that transforms audio-based
 
 ## 🗂️ Folder Structure
 
-project/
-├── audio/ # Original audio files
-├── output/audio_utterances/ # Segmented utterances
-├── transcripts/ # Processed transcripts (from TextGrid)
-├── notes/ # Generated SOAP notes
-├── scripts/ # Core processing and generation scripts
-└── main.ipynb # End-to-end Jupyter workflow
 
-bash
-Copy
-Edit
+├── audio/                       # Original audio files  
+├── output/audio_utterances/    # Segmented utterances  
+├── transcripts/                # Processed transcripts (from TextGrid)  
+├── notes/                      # Generated SOAP notes  
+├── scripts/                    # Core processing and generation scripts  
+└── main.ipynb                  # End-to-end Jupyter workflow  
 
 ## 🚀 Getting Started
 
