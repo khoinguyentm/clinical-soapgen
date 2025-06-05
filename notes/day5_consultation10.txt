@@ -1,0 +1,33 @@
+ SOAP Note:
+
+Subjective:
+- Patient is a [Name] born on [Date of birth], living at [Home address].
+- The patient has been experiencing a blinding headache for the past 3 days, which is causing difficulty in focusing and going to work.
+- The headache is described as an ongoing, severe pain (8 out of 10), with some improvement when taking Ibuprofen but not complete resolution.
+- Lights make the patient more sensitive and there are occasional shooting lights in vision.
+- No nausea, vomiting, tingling, numbness or weakness.
+- There is no change in smell or taste.
+- The headaches have been described as general pressure in the past, but nothing major.
+- Lack of energy may be due to the headaches.
+- The patient works from home and has missed a few days of work.
+- No other medical problems in the past except for a pain when younger with no cause found and resolved on its own.
+- No travel history.
+- Takes birth control pill (name not specified) for about a year, with no reported side effects or increased frequency of headaches.
+- Occasional alcohol consumption (once a week).
+- No other drugs are taken except Ibuprofen when needed.
+
+Objective:
+- Vital signs within normal limits during the consultation.
+- Visual acuity and field test were not performed during the consultation, but patient reported recent eye check-up with no changes in vision.
+- Neurological examination is required for further evaluation.
+
+Assessment:
+- Possible migraine type headache due to ongoing nature of the headache, altered light sensitivity and no fever or other symptoms.
+
+Plan:
+- Book an appointment for a full neurological examination, including back of the eyes examination.
+- Prescribe medication stronger than Ibuprofen to take instead when needed, along with Paracetamol.
+- Inform patient to continue taking birth control pill until further advice.
+- If headache worsens or changes before appointment, advise patient to go to A and E for an examination and contact support team for further advice.
+- Check blood pressure during the appointment to ensure appropriate pill is still suitable if migraine is confirmed.
+- No referral to a specialist is needed if appointment with support team is booked.

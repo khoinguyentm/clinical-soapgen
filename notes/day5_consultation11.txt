@@ -1,0 +1,30 @@
+ Subjective:
+- Name: Mary Jo
+- Date of Birth: January 1st, 1980
+- Address: 60 Sloane Avenue, London
+- Presentation: Complains of knee pain and clicking, tingling in toes, concerned about possible injury.
+- Symptom Onset: Approximately two weeks ago
+- Aggravating Factors: Longer runs (7-8 miles) during marathon training
+- Alleviating Factors: Ice therapy
+- Past Medical History: Knee injury from falling on ice a few months ago, no other significant joint or back problems.
+- Current Medications: Ibuprofen, Melatonin, Vitamin D, occasionally Aleve/Acetaminophen, Xanax (for sleeping)
+- Allergies: None known
+- Other Information: Far-sighted, had Lasik surgery; experienced a UTI that was initially misdiagnosed as kidney stones.
+
+Objective:
+- General Appearance: Not described in the transcript
+- Vital Signs: Not measured or described
+- Joint Exam: Right knee pain and clicking, no locking up, able to fully flex and extend leg; no apparent swelling or tenderness
+- Range of Motion: Full range of motion in right knee
+- Neurological Exam: No numbness, tingling or altered sensation in toes on the right side. Tingling in toes described once after a run but resolved.
+- Other Findings: Right calf and foot examined; no pain, swelling, or altered sensation noted.
+
+Assessment: Possible knee injury related to recent increase in running distance during marathon training.
+
+Plan:
+1. Continue ice therapy as much as possible
+2. Ease up on running if it becomes painful enough to stop
+3. Prescribe a stronger anti-inflammatory medication (not with Ibuprofen)
+4. Refer for physiotherapy assessment and examination of the knee
+5. Advise returning if symptoms worsen or become urgent (persistent swelling, heat, redness, high temperature, complete locking up of the knee)
+6. Send prescription for stronger anti-inflammatory to the patient's pharmacy.

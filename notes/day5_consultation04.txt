@@ -1,0 +1,7 @@
+ Subjective: The patient is a 23-year-old female named [Name]. She presents with a lower abdominal pain that started a few days ago and has been worsening. The pain is constant and described as an 8/10 in severity. Additionally, she reports light vaginal bleeding, constipation, and nausea but no vomiting.
+
+Observable: The patient was seen via telemedicine, and there were no observations made regarding her physical appearance or behavior.
+
+Assessment: The patient is experiencing lower abdominal pain that may be indicative of a gynecological issue due to the association with vaginal bleeding, constipation, and nausea. However, further assessment is needed to confirm the diagnosis.
+
+Plan: Arrange for a face-to-face examination in a clinic where an abdominal examination can be performed to better understand the cause of the pain. The patient should also perform a pregnancy test today due to her last menstrual period and implant usage. If the pregnancy test is positive, she needs to call back immediately for further evaluation. In the meantime, if her condition worsens or she is unable to hold fluids down, she should be seen before the scheduled appointment.

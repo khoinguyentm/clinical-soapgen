@@ -1,0 +1,7 @@
+ Subjective: The patient, Maria, presents with a severe headache on the left side of her head that started four hours ago and is accompanied by blurry vision, nausea, vomiting, and dizziness. The pain is described as a 6 out of 10, with the patient mentioning a previous experience with kidney stones for reference. She has not taken any medication for this issue and does not have a history of headaches or other medical problems. There is a family history of migraines and hypothyroidism. The patient appears concerned and fearful, believing it may be a brain tumor or stroke.
+
+   Objective: On physical examination, the patient's vitals were within normal limits. A thorough neurological exam was not performed as the patient will return for a full assessment. There were no signs of weakness in her arms or legs and she was able to walk in a straight line. Her vision remained blurry with zigzag lines.
+
+   Assessment: The subjective symptoms, combined with the family history of migraines, lead to an initial assessment of a possible migraine. However, due to the severity of the symptoms, the patient will return for a full neurological exam and further assessment.
+
+   Plan: In the interim, the patient was advised to take ibuprofen, an anti-sickness medication, and drink sugary and carbonated drinks as a temporary treatment. If her condition improves before her appointment, she can cancel it. The appointment will be for a full neurological assessment to rule out other potential causes of her symptoms.

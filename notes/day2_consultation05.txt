@@ -1,0 +1,21 @@
+ Subjective:
+- The patient (John Smith, 32 years old) reports experiencing "very weird symptoms" for about a month. These include feelings of tiredness and weakness, numbness and pins and needles in the right hand, and a sensation of arm weakness that lasts a few days before resolving. Lately, the patient has also noticed difficulty holding a cup of coffee during these episodes. The symptoms appear to have become more frequent over time.
+- The patient reports feeling nauseous and lacking energy at times. Their colleague mentioned that the patient's gait has been abnormal during these episodes, but normally the patient is fit and well.
+- The patient's father has a history of stroke and had an operation to reduce the risk.
+- The patient is a doctor working in plastic surgery and lives with their spouse. They are not allergic to any medication except penicillin. They do not smoke.
+
+Objective:
+- Vital signs were not recorded during this consultation.
+- No physical examination was performed as it was a remote consultation.
+
+Assessment:
+The symptoms described by the patient are concerning for possible transient ischemic attacks (TIAs) or mini-strokes, given the patient's family history of stroke and the fact that they are relatively young. The frequent episodes, progression in frequency, and presence of abnormal gait during these episodes support this assessment.
+
+Plan:
+1. Refer the patient to a TIA/mini-stroke clinic for further evaluation, including carotid ultrasound and possibly brain imaging.
+2. Inform the patient that they should expect to be contacted by the clinic within 1-2 days for an appointment.
+3. Advise the patient to contact the clinic either today or tomorrow morning to schedule the appointment if possible.
+4. Remind the patient that if symptoms persist or worsen, they should go to the emergency department immediately.
+5. Provide the patient with the PALS and TIA clinic numbers for follow-up.
+6. Schedule a referral and provide the necessary information to the hospital.
+7. Follow up with the patient as needed if there are any delays or issues with the appointment.

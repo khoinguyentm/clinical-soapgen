@@ -1,0 +1,5 @@
+1. The patient has a viral illness or early signs of flu.
+2. He is advised to rest and drink plenty of fluids.
+3. Taking regular Paracetamol would help if he feels hot and cold and sweaty.
+4. The doctor is considering giving him antibiotics (Amoxicillin) if his symptoms don't improve in the next 24-48 hours, but thinks it's unlikely he has a chest infection.
+5. The patient should return to see the doctor if he is still not better by next week for another examination.

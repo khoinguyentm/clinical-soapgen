@@ -1,0 +1,7 @@
+ Subjective: The patient presented with symptoms of wheezing and shortness of breath for the past two to three days. They reported having asthma as an adult and having had similar symptoms in the past, but cannot recall when it stopped or what medication they were taking. The patient also reported a cough, fever, and difficulty completing sentences at times. They have not required hospitalization in the past due to asthma.
+
+   Objective: The patient's peak flow meter was not present at home, and they are currently using Salbutamol as an asthma inhaler. Their temperature was 37 degrees Celsius when last checked. The patient lives with their partner and works as an engineer. They drink alcohol occasionally (one glass every two to three days).
+
+   Assessment: It appears that the patient is experiencing a flare-up of their asthma, potentially triggered by environmental allergens or a viral infection.
+
+   Plan: The doctor suggested taking the inhaler more regularly than the patient currently is and prescribed a peak flow meter and spacer to improve medication delivery efficiency. The patient was advised to call if symptoms worsen, and a review appointment will be scheduled for the following week. The doctor also recommended taking a regular antihistamine for symptom relief and instructed the patient on how to use the peak flow meter.

@@ -1,0 +1,28 @@
+ SOAP Note:
+
+Subjective:
+- Patient identified as Mary Smith, age 28, residing at apartment 405, 9C Clerkenwell Road.
+- The patient reports having an intense headache on the left side at the back of her head that started around mid-morning yesterday.
+- The headache has been described as gradually building up over a short period of time and currently rates an 8 out of 10 in terms of pain intensity.
+- No accompanying symptoms such as nausea, vomiting, tingling, numbness, weakness, blurred vision, or problems with light have been reported.
+- The patient reports feeling able to eat and drink normally, and denies any fever, shivers, sweats, rashes, stomach problems, asthma, or other medical issues.
+- Patient has a history of her mother having hypertension and migraines but denies similar symptoms in herself.
+- The patient reports feeling it difficult to perform normal tasks due to the headache.
+- Denies smoking, alcohol consumption, or use of other drugs.
+- Reports no recent blood pressure check.
+- Denies any changes in diet or lifestyle that could explain the onset of headaches.
+
+Objective:
+- A headache on the left side at the back of the head.
+- Intensity rate of 8 out of 10.
+- No other accompanying symptoms.
+- Vital signs not recorded during this encounter.
+
+Assessment:
+- The patient presents with a new-onset, moderate to severe left-sided occipital headache without any clear etiology or associated symptoms. Given the patient's denial of stress, dietary changes, or other lifestyle modifications, further investigation may be warranted. The possibility of migraine should be considered due to the patient's family history.
+
+Plan:
+- Prescribe a stronger pain relief medication similar to Ibuprofen (e.g., Naproxen) and advise taking it regularly with food.
+- Advise rest, hydration, and the use of Paracetamol if needed.
+- Instruct the patient to seek further medical attention if symptoms worsen, new symptoms develop, or if episodes recur. This includes fever, rash, vomiting, neck stiffness, or continued headaches that are not settling with medication.
+- Schedule a follow-up appointment or arrange for telephone consultation within the next 24-48 hours to reassess and adjust management as needed.
