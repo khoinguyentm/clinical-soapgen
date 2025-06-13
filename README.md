@@ -1,4 +1,4 @@
-# 🩺 Clinical Note Generator from Doctor-Patient Conversations
+# 🩺 Clinical SOAP Note Generator
 
 This project implements a full clinical NLP pipeline that transforms audio-based medical consultations into structured SOAP (Subjective, Objective, Assessment, Plan) notes. It demonstrates the potential of AI-assisted documentation in real-world healthcare workflows using local language models.
 
@@ -13,44 +13,134 @@ This project implements a full clinical NLP pipeline that transforms audio-based
   - Note generation customization
   - Healthcare documentation support
 
-## 🧮 Quick Stats
+## 🗂️ Project Structure
 
-| Feature | Description |
-|--------|-------------|
-| Code cells | 12 |
-| Markdown cells | 4 |
-| Transcript files processed | 57+ |
-| SOAP notes generated | Yes |
-| Evaluation metric | ROUGE |
-| Programming language | Python |
-| Domain | Healthcare / Clinical NLP |
+```
+clinical-soapgen/
+├── src/                      # Source code
+│   ├── __init__.py          # Package initialization
+│   ├── pipeline.py          # Core pipeline implementation
+│   ├── evaluation/          # Evaluation tools
+│   ├── models/             # Model implementations
+│   ├── data/               # Data processing utilities
+│   ├── config/             # Configuration management
+│   └── web/                # Web interface
+├── scripts/                 # Utility scripts
+├── tests/                   # Test suite
+├── data/                    # Data directory
+│   ├── audio/              # Original audio files
+│   ├── transcripts/        # Processed transcripts
+│   ├── notes/             # SOAP notes
+│   └── output/            # Generated outputs
+├── setup.py                # Package setup
+├── requirements.txt        # Dependencies
+└── README.md              # This file
+```
 
-## 🗂️ Folder Structure
-
-
-├── audio/                       # Original audio files  
-├── output/audio_utterances/    # Segmented utterances  
-├── transcripts/                # Processed transcripts (from TextGrid)  
-├── notes/                      # Generated SOAP notes  
-├── scripts/                    # Core processing and generation scripts  
-└── main.ipynb                  # End-to-end Jupyter workflow  
-
-## 🚀 Getting Started
+## 🚀 Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/clinical-soap-pipeline.git
-   cd clinical-soap-pipeline
-2. Install dependencies:
+   git clone https://github.com/your-username/clinical-soapgen.git
+   cd clinical-soapgen
+   ```
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
+2. **Create a virtual environment** (recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
-3. Run the pipeline:
-   Open main.ipynb and execute all cells in order.
+3. **Install the package**:
+   ```bash
+   # Install in development mode with all dependencies
+   pip install -e ".[dev]"
+   ```
 
+## 💻 Usage
+
+### Command Line Interface
+
+The package provides a command-line interface for running the full pipeline:
+
+```bash
+python -m clinical_soapgen.pipeline --root_dir /path/to/project --generate_training_data
+```
+
+### Python API
+
+You can also use the package programmatically:
+
+```python
+from clinical_soapgen import ClinicalPipeline, PipelineConfig
+
+# Initialize the pipeline
+config = PipelineConfig.from_root_dir("/path/to/project")
+pipeline = ClinicalPipeline(config)
+
+# Run the full pipeline
+paired_data = pipeline.run_full_pipeline()
+
+# Generate training data
+pipeline.generate_training_data()
+```
+
+### Jupyter Notebook
+
+For interactive development and exploration, you can use the provided Jupyter notebook:
+
+```bash
+jupyter notebook main.ipynb
+```
+
+## 🧪 Development
+
+1. **Install development dependencies**:
+   ```bash
+   pip install -e ".[dev]"
+   ```
+
+2. **Run tests**:
+   ```bash
+   pytest
+   ```
+
+3. **Format code**:
+   ```bash
+   black src tests
+   ```
+
+4. **Type checking**:
+   ```bash
+   mypy src
+   ```
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📚 Citation
+
+If you use this project in your research, please cite:
+
+```bibtex
+@software{clinical_soapgen,
+  author = {Khoi Nguyen},
+  title = {Clinical SOAP Note Generator},
+  year = {2024},
+  url = {https://github.com/your-username/clinical-soapgen}
+}
+```
 
 🧠 Techniques Used
 Parsing .TextGrid files into readable transcripts
