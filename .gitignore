@@ -1,7 +1,3 @@
-# Project-specific
-# output/
-untracked/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -24,7 +20,6 @@ parts/
 sdist/
 var/
 wheels/
-pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -54,33 +49,7 @@ coverage.xml
 *.py,cover
 .hypothesis/
 .pytest_cache/
-test-results/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Mac stuff:
-.DS_Store
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-target/
+cover/
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -90,7 +59,9 @@ profile_default/
 ipython_config.py
 
 # pyenv
-.python-version
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
 
 # pipenv
 #   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
@@ -99,7 +70,22 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
-# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
+#pdm.lock
+#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
+#   in version control.
+#   https://pdm.fming.dev/#use-with-ide
+.pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
 
 # Celery stuff
@@ -136,13 +122,24 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# PyCharm
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDE
+.vscode/
 .idea/
+*.swp
+*.swo
 
-# contrast_security.yaml contains secrets and generated only in the runtime or
-# during the build process of the image.
-/contrast_security.yml
+# OS
+.DS_Store
+Thumbs.db
 
-# Local model dirs
-model
-universal-sentence-encoder_4
+# Project specific
+*.jsonl
+output/generated_*
+temp/
+logs/

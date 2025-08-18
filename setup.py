@@ -10,8 +10,9 @@ setup(
         "rouge-score>=0.1.2",
         "numpy>=1.24.0",
         "pandas>=2.0.0",
-        "pathlib>=1.0.1",
         "tqdm>=4.65.0",
+        "TextGrid>=1.5",
+        "requests>=2.28.0",
     ],
     extras_require={
         "dev": [
@@ -28,10 +29,19 @@ setup(
     description="A tool for generating SOAP notes from clinical conversations using Mistral",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
+    entry_points={
+        "console_scripts": [
+            "clinical-soapgen=src.pipeline:main",
+            "soapgen-web=src.web.app:main",
+        ],
+    },
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Healthcare Industry",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.9",
+        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.11",
     ],
 ) 
