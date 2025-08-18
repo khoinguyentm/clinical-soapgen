@@ -285,12 +285,6 @@ If you use this project in your research, please cite:
 - **Ollama**: [Local LLM runtime](https://ollama.com)
 - **Gradio**: [Web interface framework](https://gradio.app)
 
-## 📞 Support
-
-- 📧 **Issues**: [GitHub Issues](https://github.com/your-username/clinical-soapgen/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/clinical-soapgen/discussions)
-- 📖 **Documentation**: See docstrings and code comments
-
 ---
 
 <div align="center">
